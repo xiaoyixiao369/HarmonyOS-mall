@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.example.mall4j",
+    "patchVersionCode": 2000187,
+    "versionCode": 1000000
+  },
+  "module": {
+    "name": "entry",
+    "type": "hotreload"
+  }
+}

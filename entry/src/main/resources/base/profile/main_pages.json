@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Login",
+    "pages/ProductList",
+    "pages/ProductDetail",
+    "pages/ConfirmOrder",
+    "pages/Addr",
+    "pages/EditAddr",
+    "pages/Order",
+    "pages/PaySuccess",
+    "pages/SearchProduct"
+  ]
+}

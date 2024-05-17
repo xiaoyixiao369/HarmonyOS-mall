@@ -1,0 +1,15 @@
+{
+  "license": "",
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  },
+  "author": "",
+  "name": "mall4j",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ohos/crypto-js": "^2.0.3",
+    "@ohos/axios": "^2.2.0"
+  }
+}
